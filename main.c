@@ -4,7 +4,7 @@ int main(void){
     int input_int;
     float input_float;
     
-    printf("entemaker an integer : ");
+    printf("enter an integer : ");
     scanf("%d", &input_int);
     
     
